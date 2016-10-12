@@ -69,8 +69,8 @@
     <Content Include="app\categories\bookmarks\edit\bookmark-edit.tmpl.html" />
     <Content Include="app\categories\categories.js" />
     <Content Include="app\categories\categories.tmpl.html" />
-    <Content Include="app\common\models\bookmark-edit.js" />
-    <Content Include="app\common\models\bookmark-edit.tmpl.html" />
+    <Content Include="app\common\models\bookmarks-model.js" />
+    <Content Include="app\common\models\categories-model.js" />
     <Content Include="app\eggly-app.js" />
     <Content Include="packages.config" />
     <None Include="Web.Debug.config">
