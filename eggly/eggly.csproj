@@ -61,6 +61,16 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="app\categories\bookmarks\bookmarks.js" />
+    <Content Include="app\categories\bookmarks\bookmarks.tmpl.html" />
+    <Content Include="app\categories\bookmarks\create\bookmark-create.js" />
+    <Content Include="app\categories\bookmarks\create\bookmark-create.tmpl.html" />
+    <Content Include="app\categories\bookmarks\edit\bookmark-edit.js" />
+    <Content Include="app\categories\bookmarks\edit\bookmark-edit.tmpl.html" />
+    <Content Include="app\categories\categories.js" />
+    <Content Include="app\categories\categories.tmpl.html" />
+    <Content Include="app\common\models\bookmark-edit.js" />
+    <Content Include="app\common\models\bookmark-edit.tmpl.html" />
     <Content Include="app\eggly-app.js" />
     <Content Include="packages.config" />
     <None Include="Web.Debug.config">
